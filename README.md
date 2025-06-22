@@ -1,16 +1,11 @@
-# coffect Backend Repo
-Coffect BackEnd Repository
+# Express Env Setting
+Use for fork
 
 ## 📚Stack
 * TypeScript
 * JavaScript
 * ORM
 * MySql
-
-## 주요 기능
-* 커피챗 게시글 업로드 및 조회
-* 커피챗 실시간 채팅
-* 커피챗 스토리 조회 및 매칭 시스템
 
 ## Commit Meaage Convention
 | Tag Name       | Description                                    |
